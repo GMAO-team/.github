@@ -23,7 +23,7 @@ This special repo powers the **public profile** of the GMAO-team organization an
 - shared CI workflows (`workflows/`) if you choose to centralize them via `workflow_call`.
 
 > Looking for the CMMS source code?  
-> 👉 Go to **`gmao-with-django-mvp`**: https://github.com/GMAO-team/gmao-with-django-mvp
+> 👉 Go to **`gmao-with-django-mvp`**: https://github.com/GMAO-team/cmms-djg-mvp
 
 ## What we’re building
 
